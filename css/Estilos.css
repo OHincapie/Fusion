@@ -27,13 +27,23 @@ body{
     font-weight: normal;
 }
 
+
 #container{
     width: 50%;
     border: 1px solid red;
-    margin: 0 auto
+    margin: 0 auto;
 
 }
 
 #container h1 {
     font-size: 2rem;
+}
+
+#footer {
+    background-color: lightgreen;
+    font-size: 1rem;
+    font-weight: bolder;
+    color: black;
+    padding: 0;
+    
 }
